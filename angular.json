@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "busola"
+    }
+  },
+  "defaultProject": "busola",
+  "cli": {
+    "analytics": false
+  }
 }
